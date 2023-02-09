@@ -1,5 +1,5 @@
 exports.handler = async function(event, context) {
-  const body = JSON.parse(event)
+  const body = event;
   try {
     console.log(body)
   } catch(error) {
