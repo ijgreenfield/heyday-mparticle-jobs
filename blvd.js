@@ -1,4 +1,4 @@
-import crypto from 'crypto'
+{/*import crypto from 'crypto'
 
 function generate_auth_header(business_id, api_secret, api_key) {
   const prefix = 'blvd-admin-v1'
@@ -20,4 +20,4 @@ function generate_auth_header(business_id, api_secret, api_key) {
 
 generate_auth_header('984d8ec1-2376-488c-9fd4-0a1db765e43f', 'zHPCft3UiQ21xJDLk5+Z7ytG6F9xH6bEXmO101XRGvY=', '2d9fe759-99e3-4c2f-a50c-6a7fa1d3d3bd')
 
-console.log("hi")
+console.log("hi")*/}
