@@ -1,4 +1,4 @@
 exports.handler = async function(event, context) {
-  const body = JSON.parse(event.body)
+  const body = JSON.parse(event)
   console.log(body.person.name)
 }
